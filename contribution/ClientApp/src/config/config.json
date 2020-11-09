@@ -1,0 +1,8 @@
+{
+    "membersEndPoint":"https://localhost:5001/api/members",
+    "recieptsEndPoint":"https://localhost:5001/api/reciepts",
+    "banksEndPoint":"https://localhost:5001/api/banks",
+    "paymentEndPoint":"https://localhost:5001/api/payments",
+    "usersEndPoint":"https://localhost:5001/api/users",
+    "authEndPoint": "https://localhost:5001/api/login"
+}
