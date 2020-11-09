@@ -1,0 +1,2 @@
+65536
+fs.inotify.max_user_watches=52428
